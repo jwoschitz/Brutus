@@ -1,0 +1,16 @@
+D:\projects\Brutus\Test\bin\Debug\TEst.dll
+D:\projects\Brutus\Test\bin\Debug\TEst.pdb
+D:\projects\Brutus\Test\bin\Debug\NUnit.Framework.dll
+D:\projects\Brutus\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\projects\Brutus\Test\obj\x86\Debug\TEst.dll
+D:\projects\Brutus\Test\obj\x86\Debug\TEst.pdb
+D:\projects\Brutus\Test\bin\Debug\Brutus.dll
+D:\projects\Brutus\Test\bin\Debug\Brutus.pdb
+C:\Users\woschitz\Dropbox\projects\Brutus\Test\bin\Debug\TEst.dll
+C:\Users\woschitz\Dropbox\projects\Brutus\Test\bin\Debug\TEst.pdb
+C:\Users\woschitz\Dropbox\projects\Brutus\Test\bin\Debug\Brutus.dll
+C:\Users\woschitz\Dropbox\projects\Brutus\Test\bin\Debug\NUnit.Framework.dll
+C:\Users\woschitz\Dropbox\projects\Brutus\Test\bin\Debug\Brutus.pdb
+C:\Users\woschitz\Dropbox\projects\Brutus\Test\obj\x86\Debug\TEst.csprojResolveAssemblyReference.cache
+C:\Users\woschitz\Dropbox\projects\Brutus\Test\obj\x86\Debug\TEst.dll
+C:\Users\woschitz\Dropbox\projects\Brutus\Test\obj\x86\Debug\TEst.pdb

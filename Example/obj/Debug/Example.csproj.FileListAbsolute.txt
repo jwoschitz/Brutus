@@ -1,0 +1,7 @@
+C:\Users\woschitz\Dropbox\projects\Brutus\Example\bin\Debug\Brutus.Example.exe
+C:\Users\woschitz\Dropbox\projects\Brutus\Example\bin\Debug\Brutus.Example.pdb
+C:\Users\woschitz\Dropbox\projects\Brutus\Example\bin\Debug\Brutus.dll
+C:\Users\woschitz\Dropbox\projects\Brutus\Example\bin\Debug\Brutus.pdb
+C:\Users\woschitz\Dropbox\projects\Brutus\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+C:\Users\woschitz\Dropbox\projects\Brutus\Example\obj\Debug\Brutus.Example.exe
+C:\Users\woschitz\Dropbox\projects\Brutus\Example\obj\Debug\Brutus.Example.pdb

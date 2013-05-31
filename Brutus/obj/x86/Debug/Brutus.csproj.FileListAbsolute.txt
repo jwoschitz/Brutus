@@ -1,0 +1,10 @@
+D:\projects\Brutus\Brutus\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\projects\Brutus\Brutus\bin\Debug\Brutus.dll
+D:\projects\Brutus\Brutus\bin\Debug\Brutus.pdb
+D:\projects\Brutus\Brutus\obj\x86\Debug\Brutus.dll
+D:\projects\Brutus\Brutus\obj\x86\Debug\Brutus.pdb
+C:\Users\woschitz\Dropbox\projects\Brutus\Brutus\obj\x86\Debug\Brutus.csprojResolveAssemblyReference.cache
+C:\Users\woschitz\Dropbox\projects\Brutus\Brutus\obj\x86\Debug\Brutus.dll
+C:\Users\woschitz\Dropbox\projects\Brutus\Brutus\bin\Debug\Brutus.dll
+C:\Users\woschitz\Dropbox\projects\Brutus\Brutus\bin\Debug\Brutus.pdb
+C:\Users\woschitz\Dropbox\projects\Brutus\Brutus\obj\x86\Debug\Brutus.pdb
