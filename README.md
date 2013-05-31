@@ -12,17 +12,19 @@ It should run also with older versions of .NET, due the usage of LINQ at least .
 
 The main component is the ***Executor*** class. It requires a keyspace which is basically an array of chars. If ***Executor.ComputeNextKey*** gets called, it will compute the next key and store its current state.
 
-    	    char[] keyspace = new char[] {'a', 'b', 'c'};
-	    	// the executor gets initialized with a selected keyspace
-	    	Executor executor = new Executor(keyspace);
-	    	// computes a key based on your keyspace and also stores the current state
-	    	// will print 'a'
-	    	Console.WriteLine(executor.ComputeNextKey());
-	    	// will print 'b'
-	    	Console.WriteLine(executor.ComputeNextKey());
-	    	// will print 'c'
-	    	Console.WriteLine(executor.ComputeNextKey());
-	    	// will print 'aa', and so on ...
-	    	Console.WriteLine(executor.ComputeNextKey());
+```csharp
+  char[] keyspace = new char[] {'a', 'b', 'c'};
+  // the executor gets initialized with a selected keyspace
+  Executor executor = new Executor(keyspace);
+  // computes a key based on your keyspace and also stores the current state
+  // will print 'a'
+  Console.WriteLine(executor.ComputeNextKey());
+  // will print 'b'
+  Console.WriteLine(executor.ComputeNextKey());
+  // will print 'c'
+  Console.WriteLine(executor.ComputeNextKey());
+  // will print 'aa', and so on ...
+  Console.WriteLine(executor.ComputeNextKey());
+```
  
 The solution contains also an console program which shows a basic implementation.
